@@ -1,0 +1,39 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Permanent Marker', cursive;
+    background-color: #011627;
+    color: #f8edeb;
+}
+
+.intro{
+
+    display:flex ;
+
+}
+
+.text{
+
+    max-width: 30%;
+    align-self: center;
+    justify-content: center;
+
+}
+
+.text p{
+
+    transform: rotate(90deg);
+    font-size: 6rem;
+    font-weight: 100;
+    letter-spacing: .1em;
+
+}
+
+.distortion{
+
+    width:1080px;
+    height:750px;
+
+}
